@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NhD" url="http://ead.dartmouth.edu/html/ms916.xml">ms916.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>William Allen papers<num>MS-916</num></titleproper>
+        <author>Hazen Allen, Brandi Hevalov</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rauner Special Collections Library</publisher>
+        <address><addressline>6065 Webster Hall</addressline><addressline>Hanover, NH 03755</addressline><addressline>Rauner.Special.Collections.Reference@dartmouth.edu</addressline><addressline>URL: <extptr xlink:href="http://www.dartmouth.edu/~library/rauner/" xlink:show="new" xlink:title="http://www.dartmouth.edu/~library/rauner/" xlink:type="simple"/></addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-03 14:21:51 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rauner Special Collections Library</corpname>
+      </repository>
+      <unittitle>William Allen papers</unittitle>
+      <origination label="creator">
+        <persname source="local">Allen, William</persname>
+      </origination>
+      <unitid>MS-916</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.75 linear ft.</extent>
+        <extent altrender="carrier">2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1810/1826" type="bulk">bulk</unitdate>
+      <unitdate normal="1800/1856" type="inclusive">1800-1856</unitdate>
+      <abstract id="aspace_be7111eb29381e34cf00b34b0b40212d">William Allen (DC Honorary 1812) contain correspondence, letters and documents related to Dartmouth University and the Dartmouth College Case, two unpublished books, a manuscript memoir, seven writings, leases and financial records, and miscellaneous notes and accounts. WA was a Dartmouth College trustee, President of the short-lived Dartmouth University, 1818-1819, and President of Bowdoin College, 1820-1838. The papers document his tenure as minister in Massachusetts, his college presidencies, and his retirement to Northampton, MA.</abstract>
+      <physloc audience="internal" label="Location">WMWE</physloc>
+      <physloc audience="external" label="Location">Rauner Webster Manuscript</physloc>
+    </did>
+    <userestrict id="aspace_baca9e6910ebf4aed75209d4796fac00">
+      <head>Conditions Governing Use</head>
+      <p>Permission from Dartmouth College required for publication or reproduction.</p>
+    </userestrict>
+    <scopecontent id="aspace_c09378c6e18ca3268f24b5373d4f3f2a">
+      <head>Scope and Contents</head>
+      <p>The papers of William Allen contain correspondence to and from Allen, letters and documents related to Dartmouth University and the Dartmouth College Case, two unpublished books, a manuscript memoir, seven writings, leases and financial records, and miscellaneous notes and accounts. The papers document his tenure as minister in Massachusetts, through his presidencies, and his retirement to Northampton, MA. The correspondence includes letters to and from John Wheelock (DC Class of 1771), Dartmouth College President and Trustee, 1779-1815; William Plumer, Governor of New Hampshire; Francis Brown (DC Class of 1805), Dartmouth College President and Trustee, 1815-1820; Daniel Dana (DC Class of 1788), Dartmouth College President and Trustee, 1820-1821; and Nathan Lord (DC Honorary 1821), Dartmouth College President and Trustee, 1828-1863. Of note in the collection is WA’s manuscript memoir on Samson Occom, the Mohegan Indian missionary, and the correspondence related to the
+        Dartmouth College Case. The writings include an oration and a sermon on patriotism.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_ea0cb9f53a8fbce725628022cc674561">
+      <head>Related Materials</head>
+      <p>"An American Biographical and Historical Dictionary," by William Allen<lb/> Alumni 432a, Alumni 432b, Ticknor LAH .A5a, Ticknor LAH Ap5am, Ticknor LAH Ap5am c.2, Ticknor E176 .A435 c.2 Rauner Special Collections Library, Dartmouth College Library Reference E176 .A435 Baker/Berry Library, Dartmouth College Library <lb/><lb/> Documents relating to property given by Pres. Wheelock to Princeton Theological Seminary, March 28, 1799-August 14, 1844, v.p<lb/> Manuscript Codex 799228.1 Rauner Special Collections Library, Dartmouth College Library <lb/><lb/> Opinion in the case of Trustees of Dartmouth College v. Wm. H. Woodward by the United States Supreme Court<lb/> Manuscript Codex 001950 Rauner Special Collections Library, Dartmouth College Library <lb/><lb/> Papers of Salma Hale (DC Hon. 1849)<lb/> Rauner Special Collections Library, Dartmouth College Library Manuscript MS-933 <lb/><lb/> Records of the Dartmouth University Treasurer, 1817-1820<lb/> Manuscript DA-90 Rauner Special
+        Collections Library, Dartmouth College Library <lb/><lb/> Papers of John Wheelock (DC Class of 1771)<lb/> Rauner Special Collections Library, Dartmouth College Library Manuscript MS-934</p>
+    </relatedmaterial>
+    <custodhist id="aspace_53c3ec70d14a7b4a9257bec10714f96a">
+      <head>Custodial History</head>
+      <p>Some of the William Allen papers were gifts from Mrs. Thomas C. Esty. Mr. Charles G. Milham donated one document to the papers. Another document was loaned by the New Hampshire Historical Society. Some of the papers were part of the Frederick Chase (DC Class of 1860) Collection given by his heirs. Several documents are photocopies and the originals are owned by the Pennsylvania Historical Society and the New Hampshire Historical Society. The provenance of the remaining papers is not known.</p>
+    </custodhist>
+    <accessrestrict id="aspace_c7ac9bd164669cc68d26eb8a25288346">
+      <head>Conditions Governing Access</head>
+      <p>Unrestricted.</p>
+    </accessrestrict>
+    <processinfo id="aspace_249ff57c95946e72c988f967bf6ee455">
+      <head>Date Processed</head>
+      <p>2005/11/07</p>
+    </processinfo>
+    <controlaccess>
+      <persname source="local">Allen, William</persname>
+    </controlaccess>
+    <bioghist>
+      <head>Biography</head>
+      <p>William Allen was born in Pittsfield, MA. on January 2, 1784. After graduating from Harvard University in 1802, he studied ministry for two years with his father, Rev. Thomas Allen, and the Rev. Dr. John Pierce of Brookline, MA. In 1804, Allen became licensed to preach. In 1805, he received his AM from Harvard and became Harvard University's assistant librarian and regent, a position he held until 1810. In 1810, he succeeded his father as pastor of the First Congregational Church of Pittsfield, MA. where he remained for seven years. In 1812, he received an honorary AM from Dartmouth College and in 1817, became Professor of Logic and Metaphysics at the newly established Dartmouth University under the presidency of his father-in-law John Wheelock (DC Class of 1771), former President and Trustee of Dartmouth College. After Wheelock’s death, Allen became the executor of the John Wheelock estate and succeeded his father-in-law as President of Dartmouth University in 1818. However,
+        in 1819, Dartmouth University was disbanded by the Supreme Court ruling. Allen accepted the position of President of Bowdoin College in 1820 and moved to Brunswick, ME. As president of Bowdoin, he established a medical school at the college. In 1831, he was ejected from the presidency as a result of a Maine State Act, but was restored to office two years later. He resigned from Bowdoin in 1838 and retired to Northampton, MA. While at Northampton, he published the third edition of his "American Biographical and Historical Dictionary" (1857). Other works by Allen include "Junius Unmasked" (1828), a memoir of Eleazar Wheelock (1838), and two books of verse: "Wunnissoo, or the Vale of Hoosatunnuk, a Poem" (1856) and "Poems of Nazareth and the Cross" (1.866). William Allen died in Northampton, MA on July 16, 1868.</p>
+    </bioghist>
+    <dsc>
+      <c id="aspace_d291ea3962528db003415721cf2aed5d" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+          <unitid>1</unitid>
+          <unitdate normal="1800/1853" type="bulk">1800-1853</unitdate>
+        </did>
+        <scopecontent id="aspace_42ea91fdeaa40b61a552c361a13474c1">
+          <head>Scope and Contents</head>
+          <p>This series consists of writings by William Allen from his days as a college undergraduate to his retirement. These include books, accounts, a memorandum, notes, a sermon, an oration, and a manuscript memoir. The earlier book was written while WA was an undergraduate at Harvard University in Massachusetts. The other book appears to have been a preliminary for his later, larger works of historical and biographical sketches of American personages, of which three editions were published. The accounts include deeds of land, financial records and receipts for food, land, and various other items. The memorandum is a listing of the curricula of studies at Columbia University, Union College, and Harvard University. Since its date is circa 1818, it was probably written by WA for use in his role as President of Dartmouth University. The sermon and oration both are on the topic of patriotism.</p>
+        </scopecontent>
+        <c id="aspace_9a59d2e7f1c347efffe9efab9c1dbca1" level="otherlevel" otherlevel="box">
+          <did>
+            <unittitle>Box: 1</unittitle>
+            <unitdate normal="1800/1853" type="bulk">1800-1853</unitdate>
+            <container id="aspace_defcd27554d556fcd337a05a42ddbdee" label="Mixed Materials" type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_c2aaa761dbfba9e3a63b6bee43aff9d1">
+            <head>Conditions Governing Access</head>
+            <p>Unrestricted</p>
+          </accessrestrict>
+          <scopecontent id="aspace_7a814842352a870d8df2ed878d3b59ac">
+            <head>Scope and Contents</head>
+            <p>Box: 1</p>
+          </scopecontent>
+          <c id="aspace_b55077cd03a834631a4647d079a1367c" level="file">
+            <did>
+              <unittitle>Student assignment book: “Elements of Geometry”</unittitle>
+              <unitdate normal="1800/1800" type="inclusive">1800</unitdate>
+              <container id="aspace_be1b7d1d4d20291c88a2e0c22b9963bb" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_0baf0693d6203fdeb40c9789ff5a6fcc" parent="aspace_be1b7d1d4d20291c88a2e0c22b9963bb" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_743e4c53652afab2f45cbda4e549b86e" level="file">
+            <did>
+              <unittitle>Unpublished book: "Historical Biographical Sketches, November</unittitle>
+              <unitdate normal="1807/1807" type="inclusive">1807</unitdate>
+              <container id="aspace_0345ff4cf57a8aed098c4511d4bae6d9" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_3dfdc1b16e2108ba387d5b0a4513bf64" parent="aspace_0345ff4cf57a8aed098c4511d4bae6d9" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_1ec2e778812ad380fc88aa47472c2c15" level="file">
+            <did>
+              <unittitle>Financial and account papers</unittitle>
+              <unitdate normal="1810/1845" type="bulk">1810-1845</unitdate>
+              <container id="aspace_22fb28d032f76bc0ce0b457090654e99" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_86a39db2bc9141cee930eecfeaeb23ce" parent="aspace_22fb28d032f76bc0ce0b457090654e99" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_8f88c09e6df7bb0cf9cf4c05ec55d6ce" level="file">
+            <did>
+              <unittitle>Memorandum of the curricula of studies at Columbia, Union, and Harvard</unittitle>
+              <unitdate normal="1818/1818" type="inclusive">1818</unitdate>
+              <container id="aspace_f9baecf14a4cf6afdcde19817618fcb9" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_2d01665082d408ab97d68d5311356c1f" parent="aspace_f9baecf14a4cf6afdcde19817618fcb9" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_e9edcf628e76df0313040891d47f1581" level="file">
+            <did>
+              <unittitle>Notes re: Nathaniel Hall’s account papers with the estate of Amos Wardwell, June 21</unittitle>
+              <unitdate normal="1819/1819" type="inclusive">1819</unitdate>
+              <container id="aspace_0b5c250038182438e0c10641fa866d74" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_184402fea9ec10970fcdc56afd31180a" parent="aspace_0b5c250038182438e0c10641fa866d74" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_624c3cc8db56394204d2d6749f3f2ab8" level="file">
+            <did>
+              <unittitle>Sermon: “On the Landing of the Pilgrims at Plymouth 22nd December 1620”</unittitle>
+              <unitdate normal="1844/1844" type="inclusive">1844</unitdate>
+              <container id="aspace_111d49752d5a3e7efcf14e13365228ed" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_326f931bae3e1985ee51d948bd7ddb42" parent="aspace_111d49752d5a3e7efcf14e13365228ed" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_924947b35fe02807b265156f735706fb" level="file">
+            <did>
+              <unittitle>Oration: “The Patriot Hampden”January 4</unittitle>
+              <unitdate normal="1853/1853" type="inclusive">1853</unitdate>
+              <container id="aspace_52155b0d557750071d88eea6f39e0dcc" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_48cb33eead287d3db14e19e99d95d739" parent="aspace_52155b0d557750071d88eea6f39e0dcc" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_af35592a0db57777969d63f94f9d67cb" level="file">
+            <did>
+              <unittitle>Manuscript memoir: “Memoirs of Samson Occom the Mohegan Indian Missionary”</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <container id="aspace_fdb572feb1cca1a05ed850479b138456" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_efe7e1e31d54b566e70f68d23e608c6f" parent="aspace_fdb572feb1cca1a05ed850479b138456" type="folder">8</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_b5848ee841bd969ecbb72d17cb06afda" level="series">
+        <did>
+          <unittitle>Personal Correspondence</unittitle>
+          <unitid>2</unitid>
+          <unitdate normal="1810/1838" type="bulk">1810-1838</unitdate>
+        </did>
+        <scopecontent id="aspace_afe2267ae2aec7c227102b7530c5896c">
+          <head>Scope and Contents</head>
+          <p>This series consists of letters to and from family and personal acquaintances of William Allen. Writers include John Wheelock (DC Class of 1771), WA’s father-in-law; Mrs. Maria Malleville (Wheelock) Allen, WA’s wife and daughter of John Wheelock; and Dartmouth College alumni.</p>
+        </scopecontent>
+        <c id="aspace_1b197405dbe09159f630a29be95976e0" level="otherlevel" otherlevel="box">
+          <did>
+            <unittitle>Box: 1</unittitle>
+            <unitdate normal="1810/1838" type="bulk">1810-1838</unitdate>
+            <container id="aspace_ee323b924b95cb70c3760014f18b47a6" label="Mixed Materials" type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_0018fe4ae9522eabc05b7aa309d24a9d">
+            <head>Conditions Governing Access</head>
+            <p>Unrestricted.</p>
+          </accessrestrict>
+          <scopecontent id="aspace_25fe23e16634cd25468b383c51814a89">
+            <head>Scope and Contents</head>
+            <p>Box: 1</p>
+          </scopecontent>
+          <c id="aspace_558f8f721423c9f791ef5f0020920974" level="file">
+            <did>
+              <unittitle>Letter from Thayer, Gideon, et al. re: the ministry in Braintree, MA</unittitle>
+              <unitdate normal="1810-06-20/1810-06-20" type="inclusive">1810-06-20</unitdate>
+              <container id="aspace_cbe8805abaa4d89c615b1bb91d9c7ad6" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_d687a06980a8e4234e15d5b58f77fa1f" parent="aspace_cbe8805abaa4d89c615b1bb91d9c7ad6" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_bcfbdbc6c2647fa13d30ac0b89b10519" level="file">
+            <did>
+              <unittitle>Correspondence with Wheelock, John (DC Class of 1771) Dartmouth College President &amp;amp; Trustee 1779-1815, Dartmouth University President &amp;amp; Trustee 1815-1817</unittitle>
+              <unitdate type="inclusive">July 1812-December 1814</unitdate>
+              <container id="aspace_629a7abfb20199a259c5ba91646a3ecb" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_c7fc0cd6fb6d3c1af2b42e9cd92e5651" parent="aspace_629a7abfb20199a259c5ba91646a3ecb" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_98d85ca1e4c1a0f7874470706dbbc2c2" level="file">
+            <did>
+              <unittitle>Correspondence with Allen, Mrs. Maria Malleville (Wheelock)</unittitle>
+              <unitdate type="inclusive">July 1814-September 1816</unitdate>
+              <container id="aspace_98aff22943e552af25a12de54fc9e7dc" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_ad78dcc933102c53f451ed9f65156b32" parent="aspace_98aff22943e552af25a12de54fc9e7dc" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_69d6fb86fa55ab7a1ceadd22d1351748" level="file">
+            <did>
+              <unittitle>Letter from Ripley, Eleazar Wheelock (DC Class of 1800)</unittitle>
+              <unitdate normal="1815-08-09/1815-08-09" type="inclusive">1815-08-09</unitdate>
+              <container id="aspace_ad46b0e447f9a81973dfe373758a7b53" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_47c85ac749f1b04c77377850b380f656" parent="aspace_ad46b0e447f9a81973dfe373758a7b53" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_dbd053eec1e3542965f74053847ff555" level="file">
+            <did>
+              <unittitle>Correspondence re: Goodrich claim</unittitle>
+              <unitdate type="inclusive">May 1817-May 1819</unitdate>
+              <container id="aspace_33e6b4daf261f54358cf5d541870babe" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_0f0cd61ec07ca7b703e580a6e25b461f" parent="aspace_33e6b4daf261f54358cf5d541870babe" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_d723470c6fc087fc9136a6aaebe7f885" level="file">
+            <did>
+              <unittitle>Letter to Patten, Mrs. Ruth (Wheelock)</unittitle>
+              <unitdate normal="1818-06-13/1818-06-13" type="inclusive">1818-06-13</unitdate>
+              <container id="aspace_973da72ac69d71cfc7aa6c427e6f5662" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_2baf2223269592d106484b10009202b0" parent="aspace_973da72ac69d71cfc7aa6c427e6f5662" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_e5ba6884a40c47ce82bbe28451f974ce" level="file">
+            <did>
+              <unittitle>Letter from Dana, Judah (DC Class of 1795)</unittitle>
+              <unitdate normal="1818-08-20/1818-08-20" type="inclusive">1818-08-20</unitdate>
+              <container id="aspace_93c3ba56b0003a08e9ce4a2b8d7d117c" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_37202960238ba31ce60a8cc65f6bb659" parent="aspace_93c3ba56b0003a08e9ce4a2b8d7d117c" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_2389649601441a8c3a15db12279e75cc" level="file">
+            <did>
+              <unittitle>Lease of house &amp;amp; land in Hartford, VT to Levi Bellows</unittitle>
+              <unitdate normal="1818-10-10/1818-10-10" type="inclusive">1818-10-10</unitdate>
+              <container id="aspace_1e1deea475e2409d3a571e17a78a6db7" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_f18f786c3e08a262a5e019b87584ae8a" parent="aspace_1e1deea475e2409d3a571e17a78a6db7" type="folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_a15bdcac2c998ab40afed912cd3a9cff" level="file">
+            <did>
+              <unittitle>Letter from White, Allen Porter (DC Class of 1816)</unittitle>
+              <unitdate normal="1819-05-22/1819-05-22" type="inclusive">1819-05-22</unitdate>
+              <container id="aspace_9cc409032d4a3758857e13f4ad5fbfc2" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_a3ca39599791fe368397e11f4a8ae391" parent="aspace_9cc409032d4a3758857e13f4ad5fbfc2" type="folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_4b1b6c04fb7247a1c4a30ec2a62fe97c" level="file">
+            <did>
+              <unittitle>Letter from Perkins, Cyrus (DC Class of 1800, Med. School 1802), Dartmouth University Trustee 1816-1819, Dartmouth University Treasurer 1817-1819</unittitle>
+              <unitdate normal="1819-07-16/1819-07-16" type="inclusive">1819-07-16</unitdate>
+              <container id="aspace_1a9df453be4eb89cc075918521562bf1" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_f75112efc4e2cb05fbff17c856781f64" parent="aspace_1a9df453be4eb89cc075918521562bf1" type="folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_3f2673c5bce2024d093f1c60e9787352" level="file">
+            <did>
+              <unittitle>Correspondence with Mason, Jeremiah (DC Hon. 1823)</unittitle>
+              <unitdate normal="1819-08/1819-08" type="inclusive">1819-08</unitdate>
+              <container id="aspace_93ffe0bbf248f4a944f1af1f506c2112" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_e57c65f42413296bfd94550112f16713" parent="aspace_93ffe0bbf248f4a944f1af1f506c2112" type="folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_5f09f13a9d9dae1beff31d438d7cbccf" level="file">
+            <did>
+              <unittitle>Letter to Packard, H. and Bailey, J. accepting the presidency of Bowdoin College</unittitle>
+              <unitdate normal="1820-01-29/1820-01-29" type="inclusive">1820-01-29</unitdate>
+              <container id="aspace_fd60c2b79bd464474d9148e4f19e6b53" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_dd00a10091229e7ad1d3117247e06ff5" parent="aspace_fd60c2b79bd464474d9148e4f19e6b53" type="folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_e44653d1dd8a341d73c9da8ddccdf729" level="file">
+            <did>
+              <unittitle>Letter to Pickering, William</unittitle>
+              <unitdate normal="1820-03-03/1820-03-03" type="inclusive">1820-03-03</unitdate>
+              <container id="aspace_6697b0b0da3c33a6f8987fdd605cef66" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_ecc2c6fcfd368c2c0a9e1064b1c97930" parent="aspace_6697b0b0da3c33a6f8987fdd605cef66" type="folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_45a68b34ad2f29c312a243e4adf31f4f" level="file">
+            <did>
+              <unittitle>Letter to Cleaveland, Parker (DC Hon. 1823)</unittitle>
+              <unitdate normal="1820-03-08/1820-03-08" type="inclusive">1820-03-08</unitdate>
+              <container id="aspace_673463e69c38c89a8c21a4dbc005c2b0" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_8988eb00b241fe2557750b0507b0ee52" parent="aspace_673463e69c38c89a8c21a4dbc005c2b0" type="folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_43e788286ba0fcd49d72c8d2a16ad53b" level="file">
+            <did>
+              <unittitle>Letter from Brewster, Amos Avery</unittitle>
+              <unitdate normal="1821-04-18/1821-04-18" type="inclusive">1821-04-18</unitdate>
+              <container id="aspace_9d47f79b0636d6fb23d2569fca3ddc9e" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_01c46acc7bb3e8ccc67f78fdf9f28bfd" parent="aspace_9d47f79b0636d6fb23d2569fca3ddc9e" type="folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_99b266c0600456e5ff8213a3b50e6b51" level="file">
+            <did>
+              <unittitle>Letter from Richards, William</unittitle>
+              <unitdate normal="1838-12-25/1838-12-25" type="inclusive">1838-12-25</unitdate>
+              <container id="aspace_c139bed2b449f5a5fe1fa3b4fbdf37ed" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_4f2a38c74a72145978c5f11194f3d3b7" parent="aspace_c139bed2b449f5a5fe1fa3b4fbdf37ed" type="folder">24</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_36fc2713c139067bb64fc12307f395b1" level="series">
+        <did>
+          <unittitle>Correspondence and documents related to Dartmouth College, the Dartmouth College Case, and Dartmouth University</unittitle>
+          <unitid>3</unitid>
+          <unitdate normal="1815/1856" type="bulk">1815-1856</unitdate>
+        </did>
+        <scopecontent id="aspace_21c14173fb313106d8f68a74eff72fac">
+          <head>Scope and Contents</head>
+          <p>This series consists of letters and documents relating to WA’s involvement with Dartmouth College, Dartmouth University, and the Dartmouth College Case. This includes correspondence with Dartmouth College administration, papers, letters, and reports written by WA as President of Dartmouth University. Also found within this series is correspondence with Dartmouth College alumni, administrators of Dartmouth College and Dartmouth University, and the then current governor of New Hampshire, William Plumer, regarding the Dartmouth College Case.</p>
+        </scopecontent>
+        <c id="aspace_af6f536bf6176bfdb2f743efeea76a0d" level="otherlevel" otherlevel="box">
+          <did>
+            <unittitle>Box: 1</unittitle>
+            <unitdate normal="1815/1819" type="bulk">1815-1819</unitdate>
+            <container id="aspace_d133130b4d65bcde687587757839ad5a" label="Mixed Materials" type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_5cd92694d0416a9c54d0529fd6863411">
+            <head>Conditions Governing Access</head>
+            <p>Unrestricted.</p>
+          </accessrestrict>
+          <scopecontent id="aspace_66e22b43d8173436352882ff9ce7d903">
+            <head>Scope and Contents</head>
+            <p>Box: 1</p>
+          </scopecontent>
+          <c id="aspace_975fdbbf9ccb5fa11667bac18913ac18" level="file">
+            <did>
+              <unittitle>Correspondence with Wheelock, John (DC Class of 1771), Dartmouth College President &amp;amp; Trustee 1779-1815, Dartmouth University President &amp;amp; Trustee 1815-1817</unittitle>
+              <unitdate type="inclusive">July 1815-December 1815</unitdate>
+              <container id="aspace_eff3819cc6ab472af3a9a18ee26b74fb" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_6aa56ff72efd6d356e89d9df411c7851" parent="aspace_eff3819cc6ab472af3a9a18ee26b74fb" type="folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_699e9cd3c674df18ffbf47291014d29f" level="file">
+            <did>
+              <unittitle>Letter from Allen, Mrs. Maria Malleville (Wheelock)</unittitle>
+              <unitdate normal="1816-09-15/1816-09-15" type="inclusive">1816-09-15</unitdate>
+              <container id="aspace_eb6f8e104af1f4bead0c6b903f12fbf9" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_f9e335b03e42ac7bbb467543f72bd944" parent="aspace_eb6f8e104af1f4bead0c6b903f12fbf9" type="folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_a7b945d186d37263c838288cb19e81d1" level="file">
+            <did>
+              <unittitle>Letter from Woodward, William Henry (DC Class of 1792), Dartmouth College Treasurer 1805-1816, Dartmouth University Treasurer 1816-1818</unittitle>
+              <unitdate normal="1817-03-04/1817-03-04" type="inclusive">1817-03-04</unitdate>
+              <container id="aspace_f49536b94eb23dfb40dbffeb5fef951f" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_9ba9c3d0ecf5435125afb805ef55db26" parent="aspace_f49536b94eb23dfb40dbffeb5fef951f" type="folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_51419651f3dcd718c387ffa4cd862a33" level="file">
+            <did>
+              <unittitle>Correspondence with Morse, Jedidiah</unittitle>
+              <unitdate normal="1817-03/1817-03" type="inclusive">1817-03</unitdate>
+              <container id="aspace_a4a66ff08d62c2a20d2e1085e5428d8c" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_0b24a3dca50fb667a05678453900855e" parent="aspace_a4a66ff08d62c2a20d2e1085e5428d8c" type="folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_2307f9e12568919a4803704d50cfa5a2" level="file">
+            <did>
+              <unittitle>Correspondence with Brown, Francis (DC Class of 1805), Dartmouth College President &amp;amp; Trustee 1815-1820</unittitle>
+              <unitdate type="inclusive">August 1817-July 1819</unitdate>
+              <container id="aspace_06492d9b6293e5463468140f6a445367" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_934ecb9150bfccebb1d8745f8c1284b9" parent="aspace_06492d9b6293e5463468140f6a445367" type="folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_804328ff05861af3a962966dfa30d0df" level="file">
+            <did>
+              <unittitle>Address to parents and friends of students, late members of Dartmouth</unittitle>
+              <unitdate normal="1817-11-08/1817-11-08" type="inclusive">1817-11-08</unitdate>
+              <container id="aspace_6a066a8170d9ac7823a47a6810ecdf59" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_964115ea3ef9942b6e4f2dbf5262b7ae" parent="aspace_6a066a8170d9ac7823a47a6810ecdf59" type="folder">30</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c48238c091ebd894103dc79528355135" level="otherlevel" otherlevel="box">
+          <did>
+            <unittitle>Box: 2</unittitle>
+            <unitdate normal="1770/1856" type="bulk">1770-1856</unitdate>
+            <container id="aspace_a004b295b615a8ec59126c0637df4006" label="Mixed Materials" type="box">2</container>
+          </did>
+          <accessrestrict id="aspace_c03b0a48e67bbc53c9532bf0eb5373b1">
+            <head>Conditions Governing Access</head>
+            <p>Unrestricted.</p>
+          </accessrestrict>
+          <scopecontent id="aspace_fd62b4451a2a8566ec1eaefb3b96acbd">
+            <head>Scope and Contents</head>
+            <p>Box: 2</p>
+          </scopecontent>
+          <c id="aspace_30b525b9180104686deaf568a09e7fd5" level="file">
+            <did>
+              <unittitle>Notes re: Dartmouth University affairs</unittitle>
+              <unitdate normal="1817-11-11/1817-11-11" type="inclusive">1817-11-11</unitdate>
+              <container id="aspace_5e9802393e182a3c510ecc2a6e7482fe" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_2eb9b22b70c68c5ae164d1ff7a6c0d48" parent="aspace_5e9802393e182a3c510ecc2a6e7482fe" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_1c1e112ae977d4079f436138f4434913" level="file">
+            <did>
+              <unittitle>Correspondence with Holmes, John</unittitle>
+              <unitdate type="inclusive">January-March 1818</unitdate>
+              <container id="aspace_5e743c9563caac85003cd9b2dee3934c" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_23dc09a14cd9fe05506ce84e2f95907d" parent="aspace_5e743c9563caac85003cd9b2dee3934c" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_46d2b85c1548410cf9ef285e4d13476c" level="file">
+            <did>
+              <unittitle>Correspondence with Hale, Salma (DC Hon. 1849)</unittitle>
+              <unitdate type="inclusive">February-December 1818</unitdate>
+              <container id="aspace_94f5652a67a7e14438d529f96ca901d6" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_970f8127bafb118c0311d1bcfa7eee73" parent="aspace_94f5652a67a7e14438d529f96ca901d6" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_084a2913f7bf76826a3eb100bc011199" level="file">
+            <did>
+              <unittitle>Correspondence with Plumer, William, Governor of New Hampshire</unittitle>
+              <unitdate type="inclusive">March 1818-March 1819</unitdate>
+              <container id="aspace_2273f92f5fc8fd4c4d41201aa23f0f10" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_53f43d400a1debd026f3f79ecfedc830" parent="aspace_2273f92f5fc8fd4c4d41201aa23f0f10" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_469e023fb552113933fcfd661a8bd26b" level="file">
+            <did>
+              <unittitle>Letter from Eastman, Moses (DC Class of 1794)</unittitle>
+              <unitdate normal="1818-04-07/1818-04-07" type="inclusive">1818-04-07</unitdate>
+              <container id="aspace_57cddc0ccd637d77be7197c3863dbd2f" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_68a1f9cc78261a864ebd648e29fd377e" parent="aspace_57cddc0ccd637d77be7197c3863dbd2f" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_7ed0366d9b87c9ece5548684b2b0310a" level="file">
+            <did>
+              <unittitle>Correspondence with Lang, Richard</unittitle>
+              <unitdate normal="1818-04-22/1818-04-22" type="inclusive">1818-04-22</unitdate>
+              <container id="aspace_50c997d274ee2ed66109201fe6364237" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_84b6a1502dc6f39bdc4ed0112bd6cc39" parent="aspace_50c997d274ee2ed66109201fe6364237" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_2104ede6f616a7d223892b81f976af87" level="file">
+            <did>
+              <unittitle>Letter from Ripley, Major General T.W.</unittitle>
+              <unitdate normal="1818-08-14/1818-08-14" type="inclusive">1818-08-14</unitdate>
+              <container id="aspace_f471773a68ae146207e3a282f5e7133d" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_06c8dceef23af48056ef50ec55a5b2d3" parent="aspace_f471773a68ae146207e3a282f5e7133d" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_5c74c63f49e81c36478b90c0091b041f" level="file">
+            <did>
+              <unittitle>Letter from Bartlett, Ichabod (DC Class of 1808)</unittitle>
+              <unitdate normal="1818-08-19/1818-08-19" type="inclusive">1818-08-19</unitdate>
+              <container id="aspace_c410f66e30dbd95bdcb1c3827caf383b" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_df33ae17d4b72550371e8b7e2f240111" parent="aspace_c410f66e30dbd95bdcb1c3827caf383b" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_6ec6f8072b132e3c943cbf1a8b0bd568" level="file">
+            <did>
+              <unittitle>Letter from Elkins, Jeremiah (DC Class of 1817)</unittitle>
+              <unitdate normal="1818-08-27/1818-08-27" type="inclusive">1818-08-27</unitdate>
+              <container id="aspace_0870c59597e68d83502009a931433280" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_4769588b2f840dec767edbed7f1762d8" parent="aspace_0870c59597e68d83502009a931433280" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_e9dd7c073466b65dfa34db69723fe280" level="file">
+            <did>
+              <unittitle>Letter to Pinkney, William</unittitle>
+              <unitdate normal="1818-09-10/1818-09-10" type="inclusive">1818-09-10</unitdate>
+              <container id="aspace_528888aa47e1aaf8db3b25116399261c" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_e55eb96fb48c6bcc8f97e3e2702a6263" parent="aspace_528888aa47e1aaf8db3b25116399261c" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_745a6486d43b8889dd1544a4c0bfbd3d" level="file">
+            <did>
+              <unittitle>Letter to Sullivan, George</unittitle>
+              <unitdate normal="1818-09-19/1818-09-19" type="inclusive">1818-09-19</unitdate>
+              <container id="aspace_91420b52f9a9fab3b80884e98be4fbfe" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_edd9d3795bc080053c9ce790203c9c7f" parent="aspace_91420b52f9a9fab3b80884e98be4fbfe" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_9fbcd03a09803e5a9bafd6bc5c30a88d" level="file">
+            <did>
+              <unittitle>Bill to the Dartmouth University Treasurer</unittitle>
+              <unitdate normal="1818/1819" type="bulk">1818-1819</unitdate>
+              <container id="aspace_8417ad3610f6030ee2492e0a79560e2e" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_9dfb3d78bf92f8501afe857baa037860" parent="aspace_8417ad3610f6030ee2492e0a79560e2e" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_0318e362ea1be90988b1446e7c52e555" level="file">
+            <did>
+              <unittitle>Correspondence with Perkins, Cyrus (DC Class of 1800, Med. School 1802), Dartmouth University Trustee 1816-1819, Dartmouth University Treasurer 1817-1819</unittitle>
+              <unitdate type="inclusive">January 1819-February 1819</unitdate>
+              <container id="aspace_b2a40c2458b43e454427fe6a24cc0efc" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_cc90d462b532d0d53bd4cd546309c1cd" parent="aspace_b2a40c2458b43e454427fe6a24cc0efc" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_526cbba7d830cbbdec8fd5813bd5652a" level="file">
+            <did>
+              <unittitle>Letter from Walcut, Thomas and Ticknor, Elisha (DC Class of 1783)</unittitle>
+              <unitdate normal="1819-02-17/1819-02-17" type="inclusive">1819-02-17</unitdate>
+              <container id="aspace_c81b8f7cff761dec0ebeb5ed6ed3c446" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_969e756158188250622b5336f6acc118" parent="aspace_c81b8f7cff761dec0ebeb5ed6ed3c446" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_17bf8ecb1904d181c7e386de5036ddd1" level="file">
+            <did>
+              <unittitle>Notice to students and friends of Dartmouth University</unittitle>
+              <unitdate normal="1819-03-01/1819-03-01" type="inclusive">1819-03-01</unitdate>
+              <container id="aspace_9ee62ca073961cbb18c6e2fb3ce6c491" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_7f9897149e92a2b9e832b97425a5e7fc" parent="aspace_9ee62ca073961cbb18c6e2fb3ce6c491" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_33eafe5b664dd28e80797dd57822cfe9" level="file">
+            <did>
+              <unittitle>Letter from Nott, Eliphalet</unittitle>
+              <unitdate normal="1819-03-10/1819-03-10" type="inclusive">1819-03-10</unitdate>
+              <container id="aspace_3bb9d89d1d9fb887328ea942516196b2" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_681f07cf677077b44912234a878dccd8" parent="aspace_3bb9d89d1d9fb887328ea942516196b2" type="folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_2f9d5e5e2acaac5be729a3b1d65af477" level="file">
+            <did>
+              <unittitle>Correspondence with Marsh, Charles (DC Class of 1786)</unittitle>
+              <unitdate normal="1819-04/1819-04" type="inclusive">1819-04</unitdate>
+              <container id="aspace_c1084d0963b623961ce298dc82bf843f" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_1a73f7fc9229ccda799cef8e4cb0cd01" parent="aspace_c1084d0963b623961ce298dc82bf843f" type="folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_6bdfb4a688f6200a0393d553531f814b" level="file">
+            <did>
+              <unittitle>Deposition re: the Dartmouth College Case</unittitle>
+              <unitdate normal="1819-04-27/1819-04-27" type="inclusive">1819-04-27</unitdate>
+              <container id="aspace_bc1c9bf9813b918d9463e423abf6b00e" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_41c41f1bb958fe8f4c3dc2e9fe782807" parent="aspace_bc1c9bf9813b918d9463e423abf6b00e" type="folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_54136269ca2d0b19b974621446626288" level="file">
+            <did>
+              <unittitle>Report to the Committee of Legislature</unittitle>
+              <unitdate normal="1819-09-15/1819-09-15" type="inclusive">1819-09-15</unitdate>
+              <container id="aspace_7cb3cc432a8a9ff862b2b8016e6b5631" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_3154da18ab7cd4207c807bb7bcc7c1b4" parent="aspace_7cb3cc432a8a9ff862b2b8016e6b5631" type="folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_0df98179ca8955cfea6a876fcf6912ed" level="file">
+            <did>
+              <unittitle>Letter to the Committee of New Hampshire Legislation</unittitle>
+              <unitdate normal="1820-05-05/1820-05-05" type="inclusive">1820-05-05</unitdate>
+              <container id="aspace_b5085f088315e6d63b01218e8b9af271" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_2bdfae48138cf8fbb2e0966dedbe549a" parent="aspace_b5085f088315e6d63b01218e8b9af271" type="folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_6ff727ee97f8658d23cdd84a15b6ba0d" level="file">
+            <did>
+              <unittitle>Letter to Farrar, Timothy (DC Class of 1807), Dartmouth College Librarian &amp;amp; Treasurer 1822-1826</unittitle>
+              <unitdate normal="1824-01-07/1824-01-07" type="inclusive">1824-01-07</unitdate>
+              <container id="aspace_192d25dba6ee3bedce642fcb3bbc85ae" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_0ac8542658d0fd56f0daf4b0e00c1863" parent="aspace_192d25dba6ee3bedce642fcb3bbc85ae" type="folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_141a16f03dc92712ffbf84b8c6f37793" level="file">
+            <did>
+              <unittitle>Correspondence with Lord, Nathan (DC Hon. 1821), Dartmouth College President and Trustee 1828-1863</unittitle>
+              <unitdate type="inclusive">July 1841-February 1856</unitdate>
+              <container id="aspace_96e265b02c29ad47614f58dd1d537fb1" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_4dcd7db0550d82717d98f76c4bf41167" parent="aspace_96e265b02c29ad47614f58dd1d537fb1" type="folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_2a57bad95b4119df79fe5f5f7b72a96e" level="file">
+            <did>
+              <unittitle>Material collected by Allen regarding the Dartmouth College case; lists, deeds, specification of charges, affidavits.</unittitle>
+              <unitdate normal="1770/1818" type="bulk">1770-1818</unitdate>
+              <container id="aspace_ea841d087cc8e69b40892963c0cf7bd8" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_f574de8d156634909f05f5b96985992f" parent="aspace_ea841d087cc8e69b40892963c0cf7bd8" type="folder">33</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_46391e89c1d7857ff68b743919753ba2" level="series">
+        <did>
+          <unittitle>Correspondence and documents related to the Wheelock estate</unittitle>
+          <unitid>4</unitid>
+          <unitdate normal="1810/1836" type="bulk">1810-1836</unitdate>
+        </did>
+        <scopecontent id="aspace_fa6f264c656816ce38ca44dd578681a4">
+          <head>Scope and Contents</head>
+          <p>This series contains letters to and from William Allen and documents written by WA as executor of the Wheelock estate. WA married the only child of John Wheelock, and so became the executor of John Wheelock’s estate. After his wife died in 1828, he became the legal guardian of his children, and thus, the executor of his children’s Wheelock estate. The papers in this series relate to WA’s function as executor of the Wheelock estate.</p>
+        </scopecontent>
+        <c id="aspace_06641012939ac9a0e010cb8c76405415" level="otherlevel" otherlevel="box">
+          <did>
+            <unittitle>Box: 2</unittitle>
+            <unitdate normal="1810/1839" type="bulk">1810-1839</unitdate>
+            <container id="aspace_44450b67df231b8110e7565754af8b6e" label="Mixed Materials" type="box">2</container>
+          </did>
+          <accessrestrict id="aspace_81c8f6c281ab2502e2d0d3eb41ad5f75">
+            <head>Conditions Governing Access</head>
+            <p>Unrestricted.</p>
+          </accessrestrict>
+          <scopecontent id="aspace_794f4b906f6f5dd0491ba9f2d931994d">
+            <head>Scope and Contents</head>
+            <p>Box: 2</p>
+          </scopecontent>
+          <c id="aspace_7547d1a83e21349ac9a2cc2fe46dda88" level="file">
+            <did>
+              <unittitle>Miscellaneous notes and accounts re: Dartmouth University &amp;amp; Wheelock estate</unittitle>
+              <unitdate type="inclusive">August 1810-March 1839</unitdate>
+              <container id="aspace_ceac53e2d3dd52ab1d6aae203f671197" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_b90386007f3776b410c7009e3caf4030" parent="aspace_ceac53e2d3dd52ab1d6aae203f671197" type="folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_1b18861a979150f85d5219e685f35991" level="file">
+            <did>
+              <unittitle>Letter to Morse, Jedidiah</unittitle>
+              <unitdate normal="1817-04-05/1817-04-05" type="inclusive">1817-04-05</unitdate>
+              <container id="aspace_3737a3149c0bad3fcfe79578cf331f68" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_325c8475b00a90cbf56c5f927a13fb44" parent="aspace_3737a3149c0bad3fcfe79578cf331f68" type="folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_1150ec9f5e209d5e16a2f63d6e954eb1" level="file">
+            <did>
+              <unittitle>Correspondence with Miller, Samuel</unittitle>
+              <unitdate type="inclusive">February 1819-June 1822</unitdate>
+              <container id="aspace_bb61eedc94c9c5154af4eb7810202507" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_a46514fd729b85c948501a17bdc7b2b8" parent="aspace_bb61eedc94c9c5154af4eb7810202507" type="folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_1f9fe1bc33c10934f89d2d5c3bcca660" level="file">
+            <did>
+              <unittitle>Correspondence with Olcott, Mills (DC Class of 1790), Dartmouth College Treasurer 1816-1822</unittitle>
+              <unitdate type="inclusive">August 1819-November 1819</unitdate>
+              <container id="aspace_e3bc138a37d3160e33a823ce531a6ee9" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_cc8abf66badf0d209c031a7f20139870" parent="aspace_e3bc138a37d3160e33a823ce531a6ee9" type="folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_95a2b63111d0bcfcf6b7cdc78f19e5b1" level="file">
+            <did>
+              <unittitle>Correspondence with Ralston, Robert</unittitle>
+              <unitdate type="inclusive">March 1820-October 1826</unitdate>
+              <container id="aspace_36750da72612b3e0dfe20e508a9abef7" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_26461689425b98295085a23ca784394f" parent="aspace_36750da72612b3e0dfe20e508a9abef7" type="folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_dc0df1a1cba6c61e258c5ab7a7a204e3" level="file">
+            <did>
+              <unittitle>Correspondence with Codman, John</unittitle>
+              <unitdate type="inclusive">March-July 1820</unitdate>
+              <container id="aspace_405e309b066e2a3a726c8e1202fd028d" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_a0854f936106ee2dc1c5bd27f85c1196" parent="aspace_405e309b066e2a3a726c8e1202fd028d" type="folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_cc2bb25d4a4009de80ce9b7ed6209a2a" level="file">
+            <did>
+              <unittitle>Correspondence with Dana, Daniel (DC Class of 1788), Dartmouth College President and Trustee 1820-1821</unittitle>
+              <unitdate type="inclusive">December 1823-June 1825</unitdate>
+              <container id="aspace_8d7bd958507d080a0b4509cfe74cc39c" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_a47e64cc5d6b3023e1bfa495c0aabd22" parent="aspace_8d7bd958507d080a0b4509cfe74cc39c" type="folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ed02d5fb6c4885b15a1cb42990bd2cfb" level="file">
+            <did>
+              <unittitle>Letter to Chester, N.</unittitle>
+              <unitdate normal="1826-10-15/1826-10-15" type="inclusive">1826-10-15</unitdate>
+              <container id="aspace_ff2fa21522bd402fab7ac906dce68102" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_ac8cefa0f3c8108231a2970a203556fe" parent="aspace_ff2fa21522bd402fab7ac906dce68102" type="folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_423ebd8e6ad7698449480388e7a3dbf6" level="file">
+            <did>
+              <unittitle>Papers re: WA’s children’s estate</unittitle>
+              <unitdate type="inclusive">July-August 1836</unitdate>
+              <container id="aspace_513616d5418a59ac8bc5aac493a64fab" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_e541c99ea2ea08dc3583067c40e071e7" parent="aspace_513616d5418a59ac8bc5aac493a64fab" type="folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_a9531fcb874c1ba41a5aa17ecfba4a1c" level="file">
+            <did>
+              <unittitle>Memorandum of dates of papers re: Princeton</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <container id="aspace_e2b9ca6d85bf8f13b744b211611be214" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_5839903e7752e7096996d410b250a83a" parent="aspace_e2b9ca6d85bf8f13b744b211611be214" type="folder">32</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
