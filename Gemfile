@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'blacklight'
 
+gem 'solr_ead'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 4.2.0'
 # Use sqlite3 as the database for Active Record
